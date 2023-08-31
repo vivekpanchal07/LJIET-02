@@ -4,8 +4,8 @@ class Employee {
     String fname, lname, addrs;
     int phone;
 
-    public void setFname(String fname) {
-        this.fname = fname;
+    public void setFname(String fnamee) {
+        this.fname = fnamee;
     }
 
     public void setLname(String lname) {
